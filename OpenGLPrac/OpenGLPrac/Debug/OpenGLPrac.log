@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(64): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(69): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(74): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(54): warning C4101: 'redCricleXPos': unreferenced local variable
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(54): warning C4101: 'redCricleYPos': unreferenced local variable
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(138): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(145): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(150): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(151): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(178): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+c:\users\poornasaivuppili\source\repos\openglprac\openglprac\source.cpp(246): warning C4018: '<': signed/unsigned mismatch
+  OpenGLPrac.vcxproj -> C:\Users\PoornaSaiVuppili\source\repos\OpenGLPrac\Debug\OpenGLPrac.exe
